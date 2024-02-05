@@ -39,6 +39,7 @@ body{
   display: flex;
   position: relative;
   min-height: calc(100vh - 80px);
+  background-repeat: no-repeat;
 }
 
 .home::after {
